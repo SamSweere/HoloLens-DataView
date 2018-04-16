@@ -1,0 +1,2 @@
+C:\Users\new_devices_lab_8\Documents\Hololens Data View\DataView\DataView_Hololens\App\DataView_Hololens\DataView_Hololens.csproj;x86
+C:\Users\new_devices_lab_8\Documents\Hololens Data View\DataView\DataView_Hololens\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
